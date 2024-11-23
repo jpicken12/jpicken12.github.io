@@ -1,2 +1,0 @@
-- Does the Standard Support plan come along with the Azure free account?
-- Is the cool access tier a good idea for long term backup
