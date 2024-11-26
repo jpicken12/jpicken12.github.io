@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Fetch.md",
-                "mode": "source",
+                "file": "1. Projects/Harriet's 4th birthday party.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Fetch"
+              "title": "Harriet's 4th birthday party"
             }
           }
         ]
@@ -149,6 +149,32 @@
   },
   "active": "ce50be202d0e66b7",
   "lastOpenFiles": [
+    "Git Fetch.md",
+    "People",
+    "3. Resources/Git Pull.md",
+    "Utility",
+    "Utility/Templates",
+    "Utility/Templates/New note.md",
+    "Utility/Templates/@-mention person.md",
+    "Utility/Scripts/Dataview/tasks.js",
+    "Utility/Scripts/Dataview/mentions-table.js",
+    "Utility/Scripts/Dataview",
+    "Utility/Scripts",
+    "3. Resources/Git Push.md",
+    "Utility/Templates/Tasks menu.md",
+    "Utility/Scripts/Dataview/project-progress.js",
+    "Utility/Templates/New note templates/Person.md",
+    "Utility/Templates/New note templates/Project.md",
+    "Utility/Templates/New note templates",
+    "Utility/Templates/New note templates/Meeting.md",
+    "Utility/Templates/New note templates/! Default note.md",
+    "3. Resources/Git Fetch.md",
+    "0. Inbox/2024-11-26.md",
+    "People/Gemma.md",
+    "Utility/Scripts/Dataview/toc.js",
+    "1. Projects/Harriet's 4th birthday party.md",
+    "3. Resources/Push local git repository to git hub.md",
+    "3. Resources/Git Hub.md",
     "1. Projects/Create obsidian note taking and GTD system.md",
     "3. Resources/Git Merge.md",
     "3. Resources/Git.md",
@@ -157,30 +183,6 @@
     "Push local git repository to git hub.md",
     "Git Push.md",
     "0. Inbox/2024-11-23.md",
-    "0. Inbox",
-    "Git Fetch.md",
-    "Git Hub.md",
-    "3. Resources/Git Branch.md",
-    "Git Pull.md",
-    "2024-11-21.md",
-    "3. Resources/Azure CLI Output.md",
-    "3. Resources",
-    "3. Resources/Azure Management Groups.md",
-    "3. Resources/JSON (JavaScript Object Notation).md",
-    "3. Resources/Azure Updates.md",
-    "3. Resources/Atomicity.md",
-    "3. Resources/Pwsh parameter binding.md",
-    "3. Resources/Private Features.md",
-    "1. Projects",
-    "3. Resources/Getting setup for PowerShell development.md",
-    "3. Resources/byPropertyName.md",
-    "3. Resources/JMESPath.md",
-    "3. Resources/Index Management.md",
-    "3. Resources/Cosmos DB.md",
-    "3. Resources/Feather sticks.md",
-    "Vault",
-    "Templates",
-    "Temp",
-    "Daily"
+    "Git Hub.md"
   ]
 }
