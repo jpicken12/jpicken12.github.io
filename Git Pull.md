@@ -14,7 +14,8 @@ Any time you start working on a project, you should get the most recent changes 
 
 Git pull combines these commands so you don't have to go through them and pulls all changes from a remote repository into the branch you are working on.
 
-```git pull origin
+```
+git pull origin
 ```
 
 # References

@@ -9,14 +9,16 @@ Tags: #Git/staging
 Files in Git are either 
 - tracked, Git know about these and they are added to the repository
 - untracked, part of the working directory but not added to the repository 
-```touch index.html
+```
+touch index.html
 ```
 
 Files are untracked until added to the staging environment and committed to the repository. 
 
 During work, files will be edited, created or removed. When reaching a milestone, the changes should be staged. Staged files are ready to be committed.
 
-```git add index.html
+```
+git add index.html
 ```
 
 # References

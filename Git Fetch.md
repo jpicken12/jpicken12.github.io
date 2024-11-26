@@ -8,23 +8,27 @@ Tags:
 
 Git fetch gets the change history of a tracked branch/repo. So, on my local Git, fetch updates to see what's changed on GitHub
 
-```git fetch origin
+```
+git fetch origin
 ```
 
 Once you have the recent changes, use;
-```git status 
+```
+git status 
 ```
  to check the status
 
 and;
 
-```git log origin/main
+```
+git log origin/main
 ```
 to get details i.e. if the branch is behind then why?
 
 and;
 
-```git diff origin/main
+```
+git diff origin/main
 ```
 to show difference between files(s)
 
