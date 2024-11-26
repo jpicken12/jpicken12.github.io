@@ -4,7 +4,7 @@ completed: false
 template_destination_folder: 01 Project Management/Projects
 ---
 # <% tp.file.title %>
-#project
+#project 
 ```dataviewjs
 dv.view('project-progress')
 ```
