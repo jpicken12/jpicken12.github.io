@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Create obsidian note taking and GTD system.md",
+                "file": "Git Fetch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create obsidian note taking and GTD system"
+              "title": "Git Fetch"
             }
           }
         ]
@@ -149,6 +149,19 @@
   },
   "active": "ce50be202d0e66b7",
   "lastOpenFiles": [
+    "1. Projects/Create obsidian note taking and GTD system.md",
+    "3. Resources/Git Merge.md",
+    "3. Resources/Git.md",
+    "3. Resources/Git Commit.md",
+    "3. Resources/Git Staging.md",
+    "Push local git repository to git hub.md",
+    "Git Push.md",
+    "0. Inbox/2024-11-23.md",
+    "0. Inbox",
+    "Git Fetch.md",
+    "Git Hub.md",
+    "3. Resources/Git Branch.md",
+    "Git Pull.md",
     "2024-11-21.md",
     "3. Resources/Azure CLI Output.md",
     "3. Resources",
@@ -158,7 +171,6 @@
     "3. Resources/Atomicity.md",
     "3. Resources/Pwsh parameter binding.md",
     "3. Resources/Private Features.md",
-    "1. Projects/Create obsidian note taking and GTD system.md",
     "1. Projects",
     "3. Resources/Getting setup for PowerShell development.md",
     "3. Resources/byPropertyName.md",
@@ -166,17 +178,6 @@
     "3. Resources/Index Management.md",
     "3. Resources/Cosmos DB.md",
     "3. Resources/Feather sticks.md",
-    "3. Resources/Azure Portal Preview.md",
-    "1. Projects/✅ Tasks.md",
-    "3. Resources/Public Features.md",
-    "3. Resources/Azure CLI -query.md",
-    "3. Resources/Azure Command Line Interface.md",
-    "3. Resources/Fleeting notes.md",
-    "3. Resources/Bash String Interpolation.md",
-    "3. Resources/tasks.js.md",
-    "3. Resources/PowerShell history and current state.md",
-    "3. Resources/autounattend.xml.md",
-    "3. Resources/Azure Feature Previews.md",
     "Vault",
     "Templates",
     "Temp",
